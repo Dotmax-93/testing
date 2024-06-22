@@ -12,4 +12,9 @@ cat1 = Cat("big", 25)
 cat2 = Cat("medium", 25)
 cat3 = Cat("Huge",30)
 
-print()
+
+import jjj
+
+
+print(jjj.)
+
